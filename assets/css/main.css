@@ -193,5 +193,6 @@ li.exp-desc {
   justify-content: center;
   align-items: center;
   width: 90vw;
+  max-width: 600px;
   height: auto;
 }
